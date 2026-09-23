@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoaib Ahmed</h1>
 <h3 align="center">A passionate Aspiring Full-stack Web Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on [Book-vibe](https://github.com/shoaib-webcodes/NEXT.js-TypeScript-React-project-book-vibe)
+- 🔭 I’m currently working on [Dev-Stack](https://clever-croissant-aa72be.netlify.app/)
 
 - 🌱 I’m currently learning **NEXT.js**
 
