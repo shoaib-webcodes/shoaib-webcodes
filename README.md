@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shoaib Ahmed</h1>
 <h3 align="center">A passionate Aspiring Full-stack Web Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on 1) [Dev-Stack](https://clever-croissant-aa72be.netlify.app/)
-- 2) [FITLOG](https://next-js-ts-react-project-fit-log.vercel.app/)
+- 🔭 I’m currently working on 1) [Dev-Stack](https://clever-croissant-aa72be.netlify.app/) 2) [FITLOG](https://next-js-ts-react-project-fit-log.vercel.app/)
 
 - 🌱 I’m currently learning **NEXT.js**
 
