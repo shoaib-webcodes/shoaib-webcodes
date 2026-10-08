@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on 1) [Dev-Stack](https://clever-croissant-aa72be.netlify.app/)  2) [BPL-Dream](https://regal-selkie-0a918f.netlify.app/)
 
-- 🌱 I’m currently learning **NEXT.js**
+- 🌱 I’m currently learning **Better Auth**
 
 - 💬 Ask me about **React, TypeScript, JavaScipt, Tailwindcss**
 
