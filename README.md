@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shoaib Ahmed</h1>
 <h3 align="center">A passionate Aspiring Full-stack Web Developer from Bangladesh</h3>
 
-- 🔭 I’m currently working on 1) [Dev-Stack](https://clever-croissant-aa72be.netlify.app/)  
-
+- 👨‍🏫 Lecturer in Chemistry at **Jalalabad Cantonment Public School & College (JCPSC)**
+- 🔭 I’m currently working on [Dev-Stack](https://clever-croissant-aa72be.netlify.app/)
 - 🌱 I’m currently learning **Better Auth**
-
-- 💬 Ask me about **React, TypeScript, JavaScipt, Tailwindcss**
-
-- 📫 How to reach me **shoaibchemistrysust@gmail.com**
+- 💬 Ask me about **React, TypeScript, JavaScript, and Tailwind CSS**
+- 📫 How to reach me: **shoaibchemistrysust@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
